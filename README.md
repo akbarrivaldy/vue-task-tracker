@@ -1,11 +1,16 @@
-# vue-crash-course-2021
+# Vue Task Tracker
 
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run the JSON-Server backend (http://localhost:5000)
+```
+npm run backend
+```
+
+### Run the Vue dev server (http://localhost:8080)
 ```
 npm run serve
 ```
@@ -15,5 +20,3 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
